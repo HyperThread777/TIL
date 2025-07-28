@@ -16,7 +16,6 @@ TIL リポジトリは、日々学んだこと・気づきをまとめて記録�
 
 ```text
 TIL/
-TIL/
 ├── economics/                     ← マクロ経済や金融の概念系
 │   ├── inflation_harms_vulnerable.md
 │   ├── monetary_policy_basics.md
