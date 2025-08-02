@@ -33,6 +33,10 @@ TIL/
 │   └── 低PBRでの増資がダメな理由.md
 │
 ├── internet/                       # インターネット
+│   ├── http/                       # HTTP通信
+│   ├── インターネットの解説.md
+│   ├── インターネットの仕組み.md
+│   └── インターネットはどのように機能するか.md
 │
 ├── docker/                         # Docker
 │   └── Dev ContainerでのSSHエージェントフォワード.md
