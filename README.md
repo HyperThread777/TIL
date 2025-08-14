@@ -47,10 +47,12 @@ TIL/
 │   └── コンペティション提出方法
 │
 ├── programming/                    # コーディングやツールのTips
-│   ├── c++/
-│   ├── go/
-│   ├── javascript/
-│   └── python/
+│   ├── c++/                        # C++
+│   ├── go/                         # Go
+│   ├── javascript/                 # JavaScript
+│   └── python/                     # Python
+│       ├── polars/                 # Polars
+│       │   └── 欠損値確認.md
 │       └── Optinal.md
 │
 ├── relational_databases/           # リレーショナルデータベース
