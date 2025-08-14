@@ -43,13 +43,15 @@ TIL/
 │   └── Dev ContainerでのSSHエージェントフォワード.md
 │
 ├── kaggle/                         # Kaggle
-│   └── kaggle環境構築方法.md
+│   ├── kaggle環境構築方法.md
+│   └── コンペティション提出方法
 │
 ├── programming/                    # コーディングやツールのTips
 │   ├── c++/
 │   ├── go/
 │   ├── javascript/
 │   └── python/
+│       └── Optinal.md
 │
 ├── relational_databases/           # リレーショナルデータベース
 │
