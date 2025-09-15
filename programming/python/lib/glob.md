@@ -29,3 +29,7 @@ for p in model_path.glob("*.parquet"):
 /workspaces/StockTrade/stock_price_forecasting/data/raw/trading_calendar.parquet
 ```
 
+## まとめ
+- **`glob("パターン")` は フォルダーの中を“パターン”で検索**する道具。
+- `*` は「なんでもOKを何文字でも」、`?` は「1文字だけ」、`[]` は「この中のどれか」。
+- サブフォルダーも探したいときは `**`（または `rglob`）。
