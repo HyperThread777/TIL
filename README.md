@@ -74,6 +74,8 @@ TIL/
 │       ├── polars/                     # Polars
 │       │   ├── DataFrame/              # DataFrame
 │       │   │   ├── schema.md
+│       │   │   ├── select.md
+│       │   │   ├── sort.md
 │       │   │   └── with_columns.md
 │       │   └── 欠損値確認.md
 │       └── Optinal.md
