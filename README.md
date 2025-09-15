@@ -59,7 +59,8 @@ TIL/
 │       │   ├── date/                   # date
 │       │   │   └── replace.md
 │       │   ├── datetime/               # datetime
-│       │   │   └── now.md
+│       │   │   ├── now.md
+│       │   │   └── strptime.md
 │       │   └── timedelta/              # timedelta
 │       │       └── timedelta.md
 │       ├── lib/                        # lib
@@ -72,7 +73,8 @@ TIL/
 │       │   └── stem.md
 │       ├── polars/                     # Polars
 │       │   ├── DataFrame/              # DataFrame
-│       │       └── schema.md
+│       │   │   ├── schema.md
+│       │   │   └── with_columns.md
 │       │   └── 欠損値確認.md
 │       └── Optinal.md
 │
