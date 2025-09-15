@@ -71,6 +71,8 @@ TIL/
 │       ├── pathlib/                    # pathlib
 │       │   └── stem.md
 │       ├── polars/                     # Polars
+│       │   ├── DataFrame/              # DataFrame
+│       │       └── schema.md
 │       │   └── 欠損値確認.md
 │       └── Optinal.md
 │
