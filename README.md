@@ -20,6 +20,9 @@ TIL/
 │
 ├── assets/                             # 画像や図などのリソース
 │
+├── chatgpt/                            # ChatGPT
+│   └── custom.md
+│
 ├── caching/                            # キャッシング
 │
 ├── ci_cd/                              # CI/CD
