@@ -55,6 +55,8 @@ TIL/
 │   └── python/                         # Python
 │       ├── __future__/                 # __future__
 │       │   └── annotations.md
+│       ├── data_cleaning/              # データクリーニング
+│       │   └── parquet_sanitization.md
 │       ├── datetime/                   # datetime
 │       │   ├── date/                   # date
 │       │   │   └── replace.md
